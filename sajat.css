@@ -1,0 +1,83 @@
+#okolvivas {
+    font-family: 'Georgia', serif;
+    font-size: 18px;
+    line-height: 1.8;
+    background-color: #f4f4f4;
+    color: #222;
+    padding: 20px;
+    border-left: 5px solid #d62828;
+    border-radius: 8px;
+  }
+  #okolvivas1 {
+    font-family: 'Georgia', serif;
+    font-size: 21px;
+    line-height: 1.8;
+    color: #afd7e0;
+    padding: 20px;
+    padding-right: 150px;
+    padding-left: 100px;
+    border-radius: 8px;
+    font-weight: bold;
+  }
+
+  #video {
+    padding-top: 30px;
+    text-align: center;
+  }
+
+  h1{
+    text-align: center;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+  }
+
+ #hatter1{
+    background-image: url('1.webp');
+    background-size: cover;
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  #hatter2{
+    background-image: url('bgtyson.jpg');
+    background-size: cover;
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  #hatter3{
+    background-image: url('hatter3.jpg');
+    background-size: cover; 
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  #hatter4{
+    background-image: url('floyd.hatter.jpg');
+    background-size: cover; 
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  #hatter5{
+    background-color: #222;
+    background-size: cover; 
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  #aligrid{ 
+    padding-right: 150px;
+    padding-top: 50px;
+  }
+
+.a:hover:hover{
+    background-color: aquamarine;
+  }
+
+.a{
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+
